@@ -17,7 +17,7 @@
     <h2>Presentación</h2>
     <p>
         El proyecto de investigación “Verbos pronominales del español:
-        <i>clasificación</i> y alternancias (<b>VERPRO</b>)" (ref.
+        clasificación y alternancias (<b>VERPRO</b>)" (ref.
         <code>ID2023-149693NB-I00</code>), financiado por el Ministerio de
         Ciencia, Innovación y Universidades, se propone ofrecer un estudio de
         conjunto exhaustivo de los verbos pronominales del español actual a
@@ -38,23 +38,80 @@
             actual y agruparlos dentro de su correspondiente clase
             léxico-semántica. Como punto de partida del proyecto, se recopilarán
             los verbos que aparecen en la base de datos ADESSE bajo las
-            etiquetas de <i>construcción pronominal media</i> y construcción pronominal
-            y se adscribirán esos verbos a las clases léxico-semánticas propuestas
-            en la base de datos. Se atenderá especialmente a las siguientes 18 clases,
-            elegidas bien por contener un mayor número de ejemplos, bien por contener
-            un mayor número de verbos, bien por haber suscitado un especial interés
-            en la bibliografía previa: verbos de cuidado del cuerpo (peinarse); de
-            cambio de postura (sentarse); de contacto corporal (rascarse); de impacto
-            (golpearse); de unión (recíprocos) (casarse, juntarse); de sensación
-            (enfadarse); de conocimiento, creencia y cognición (aprenderse, creerse,
-            pensarse); de desplazamiento (irse); de localización (quedarse); de manera
-            de moverse (columpiarse); fisiológicos (orinarse); de comunicación (callarse);
-            de modificación (cambio físico-químico) (quemarse); de percepción (verse);
-            de creación (crearse); de posesión (tenerse); de transferencia (repartirse);
-            de vida (morirse); de ingesta (beberse).
+            etiquetas de <i>construcción pronominal media</i> y construcción
+            pronominal y se adscribirán esos verbos a las clases
+            léxico-semánticas propuestas en la base de datos. Se atenderá
+            especialmente a las siguientes 18 clases, elegidas bien por contener
+            un mayor número de ejemplos, bien por contener un mayor número de
+            verbos, bien por haber suscitado un especial interés en la
+            bibliografía previa:
+
+            <ol>
+                <li>
+                    verbos de cuidado del cuerpo (<i>peinarse</i>);
+                </li>
+
+                <li>
+                    de cambio de postura (<i>sentarse</i>);
+                </li>
+                <li>
+                    de contacto corporal (<i>rascarse</i>);
+                </li>
+
+                <li>
+                    de impacto (<i>golpearse</i>);
+                </li>
+
+                <li>
+                    de unión (recíprocos) (<i>casarse</i>, <i>juntarse</i>);
+                </li>
+
+                <li>
+                    de sensación (<i>enfadarse</i>);
+                </li>
+
+                <li>
+                    de conocimiento, creencia y cognición (<i>aprenderse</i>,
+                    <i>creerse</i>, <i>pensarse</i>);
+                </li>
+
+                <li>
+                    de desplazamiento (<i>irse</i>);
+                </li>
+
+                <li>
+                    de localización (<i>quedarse</i>);
+                </li>
+                <li>
+                    de manera de moverse (<i>columpiarse</i>);
+                </li>
+
+                <li>
+                    fisiológicos (<i>orinarse</i>);
+                </li>
+                <li>
+                    de comunicación (<i>callarse</i>);
+                </li>
+
+                <li>
+                    de modificación (cambio físico-químico) (<i>quemarse</i>);
+                </li>
+                <li>
+                    de percepción (<i>verse</i>);
+                </li>
+
+                <li>de creación (<i>crearse</i>);</li>
+
+                <li>de posesión (<i>tenerse</i>);</li>
+
+                <li>de transferencia (<i>repartirse</i>);</li>
+                <li>de vida (<i>morirse</i>);</li>
+
+                <li>de ingesta (<i>beberse</i>)</li>
+            </ol>
         </li>
         <li>
-            Recoger muestras de uso contextualizado en CORPES XXI sobre la
+            Recoger muestras de uso contextualizado en <b>CORPES XXI</b> sobre la
             presencia o ausencia de la forma pronominal.
         </li>
         <li>
