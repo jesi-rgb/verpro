@@ -2,16 +2,6 @@
     VERPRO <br /> Verbos pronominales del español: clasificación y alternancias
 </h1>
 
-<h3>Mapa de la web</h3>
-<ul>
-    <li><a href="/">Presentación y objetivos</a></li>
-    <li><a href="/miembros">Miembros</a></li>
-    <li><a href="/resultados">Resultados</a></li>
-    <li><a href="/transferencia">Transferencia</a></li>
-    <li><a href="/eventos">Eventos</a></li>
-    <li><a href="/contacto">Contacto</a></li>
-</ul>
-
 <h2>Presentación</h2>
 <p>
     El proyecto de investigación “Verbos pronominales del español: clasificación
@@ -38,11 +28,11 @@
         la base de datos ADESSE bajo las etiquetas de <i
             >construcción pronominal media</i
         >
-        y construcción pronominal y se adscribirán esos verbos a las clases
-        léxico-semánticas propuestas en la base de datos. Se atenderá
-        especialmente a las siguientes 18 clases, elegidas bien por contener un
-        mayor número de ejemplos, bien por contener un mayor número de verbos,
-        bien por haber suscitado un especial interés en la bibliografía previa:
+        y construcción pronominal y se adscribirán esos verbos a las clases léxico-semánticas
+        propuestas en la base de datos. Se atenderá especialmente a las siguientes
+        18 clases, elegidas bien por contener un mayor número de ejemplos, bien por
+        contener un mayor número de verbos, bien por haber suscitado un especial
+        interés en la bibliografía previa:
 
         <ol>
             <li>
@@ -115,9 +105,10 @@
     <li>
         Recopilar y describir las alternancias entre forma pronominal-no
         pronominal dentro de cada clase léxico-semántica. Se analizará tanto la
-        presencia de alternancia (p. ej. morir/morirse) como su ausencia (verbos
-        solo en activa, p. ej. fallecer, verbos solo pronominales, p. ej.
-        suicidarse).
+        presencia de alternancia (p. ej. <i>morir</i>/<i>morirse</i>) como su
+        ausencia (verbos solo en activa, p. ej. <i>fallecer</i>, verbos solo
+        pronominales, p. ej.
+        <i>suicidarse</i>).
     </li>
 
     <li>

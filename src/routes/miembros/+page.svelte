@@ -1,5 +1,5 @@
 <script>
-    import Miembro from '$lib/components/Miembro.svelte'
+    import Miembro from "$lib/components/Miembro.svelte";
 </script>
 
 <h1>Miembros</h1>
@@ -8,11 +8,9 @@
 
 <main class="flex flex-col gap-32">
     <Miembro imgUrl="/pics/elena.jpg">
-        <h3 slot="name">Elena Felíu</h3>
+        <h3 slot="name">Elena Felíu Arquiola</h3>
 
-        <a href="https://orcid.org/0000-0002-3711-041X" slot="orcid"
-            >Elena en Orcid</a
-        >
+        <a href="https://orcid.org/0000-0002-3711-041X" slot="orcid">Orcid</a>
 
         <details slot="details">
             <summary>Detalles sobre Elena</summary>
@@ -101,9 +99,7 @@
 
     <Miembro imgUrl="/pics/lilian.jpg">
         <h3 slot="name">Lilián Guerrero</h3>
-        <a slot="orcid" href="https://orcid.org/0000-0002-6118-913X"
-            >Lilián en Orcid</a
-        >
+        <a slot="orcid" href="https://orcid.org/0000-0002-6118-913X">Orcid</a>
 
         <details slot="details">
             <summary>Detalles de Lilián</summary>
@@ -166,9 +162,7 @@
 
     <Miembro imgUrl="/pics/carmen.jpg">
         <h3 slot="name">Carmen Conti Jiménez</h3>
-        <a slot="orcid" href="https://orcid.org/0000-0003-3075-3575"
-            >Carmen en Orcid</a
-        >
+        <a slot="orcid" href="https://orcid.org/0000-0003-3075-3575">Orcid</a>
 
         <details slot="details">
             <summary>Detalles de Carmen</summary>
@@ -262,9 +256,7 @@
 
 <Miembro imgUrl="/pics/valeria.jpg">
     <h3 slot="name">Valeria A. Belloro</h3>
-    <a slot="orcid" href="https://orcid.org/0000-0002.2868-2408"
-        >Carmen en Orcid</a
-    >
+    <a slot="orcid" href="https://orcid.org/0000-0002.2868-2408">Orcid</a>
 
     <details slot="details">
         <summary>Detalles de Carmen</summary>
