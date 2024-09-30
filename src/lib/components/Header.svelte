@@ -6,5 +6,4 @@
     <a href="/transferencia">Transferencia</a>
     <a href="/eventos">Eventos</a>
     <a href="/contacto">Contacto</a>
-    <a href="/miembros">Miembros</a>
 </nav>
