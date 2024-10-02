@@ -8,7 +8,7 @@
 
 <main class="flex flex-col gap-32">
     <Miembro imgUrl="/pics/elena.jpg">
-        <h3 slot="name">Elena Felíu Arquiola</h3>
+        <h3 slot="name">Elena Felíu Arquiola (investigadora responsable)</h3>
 
         <a href="https://orcid.org/0000-0002-3711-041X" slot="orcid">Orcid</a>
 
@@ -93,69 +93,6 @@
                 Country Rank), Estudios de Lingüística de la Universidad de
                 Alicante (ELUA) (Sello FECYT, cuartil 2) y Verba (Sello FECYT,
                 cuartil 2), entre otras.
-            </p>
-        </details>
-    </Miembro>
-
-    <Miembro imgUrl="/pics/lilian.jpg">
-        <h3 slot="name">Lilián Guerrero</h3>
-        <a slot="orcid" href="https://orcid.org/0000-0002-6118-913X">Orcid</a>
-
-        <details slot="details">
-            <summary>Detalles de Lilián</summary>
-
-            <p>
-                Lilián Guerrero es doctora en Lingüística por la Universidad de
-                Búfalo (Estados Unidos) y desde el 2006 es investigadora titular
-                de tiempo completo en el Seminario de Lenguas Indígenas, en el
-                Instituto de Investigaciones Filológicas de la Universidad
-                Nacional Autónoma de México. Forma parte del Sistema Nacional de
-                Investigadores de México (máximo nivel contemplado). En 2024
-                recibió el Premio Nacional Wigberto Jiménez Moreno del INAH a la
-                mejor investigación en el área de lingüística.
-            </p>
-
-            <p>
-                La línea de investigación que define sus actividades académicas
-                gira en torno a la descripción, documentación y tipología
-                lingüística, así como el estudio de las lenguas indígenas
-                mexicanas. Entre sus áreas de interés destacan el estudio de la
-                interfaz sintaxis-semántica y los efectos pragmáticos en la
-                selección de estructuras alternativas en oraciones simples y
-                complejas; procesos de cambios de valencia, transitividad, y
-                propiedades aspectuales de los predicados; la interfaz
-                sintaxis-semántica y los efectos pragmáticos en la selección de
-                estructuras. Su investigación se adscribe a la sintaxis
-                funcional y descriptiva y, en particular, a los principios de la
-                Gramática de Rol y Referencia. Ha realizado trabajo de campo en
-                la lengua pima (Pilares, Sonora, 1995), yaqui (Estación Vícam,
-                Sonora, desde 1996) y huichol (variantes de Jalisco y Nayarit,
-                desde agosto 2008). Ha sido responsable y corresponsable de 7
-                proyectos de investigación con financiamiento, todos orientados
-                al estudio de lenguas minoritarias habladas en México. Ha
-                publicado una decena de libros y más de cincuenta capítulos de
-                libros en editoriales de prestigio (entre ellas, Cambridge
-                University Press, Mouton de Gruyter, Oxford University Press,
-                John Benjamins, Language Science Press, entre otras); cuenta con
-                una veintena de artículos de investigación en revistas de alto
-                impacto y especializadas (International Journal of American
-                Linguistics, Folia Lingüística, Onomázein, Liames, entre otras).
-                Sus últimas dos publicaciones corresponden a los libros de
-                autoría Gramática de la locación y el tiempo en yaqui (2023) y
-                Transitividad (no) canónica. Reflexiones a partir de lenguas
-                habladas en México, junto con Sergio Ibáñez y Yulma Mejía.
-                Breviarios de Lingüística 1. México: UNAM, Posgrado de
-                Lingüística
-            </p>
-
-            <p>
-                En docencia, ha impartido cursos a nivel licenciatura y posgrado
-                en la Universidad de Sonora, la Universidad Autónoma de
-                Querétaro, la Escuela Nacional de Antropología e Historia
-                (ENAH), el Centro de Investigaciones y Estudios en Antropología
-                Social (CIESAS) y en la Universidad de Jaén (España). Ha
-                dirigido varias tesis de licenciatura, maestría y doctorado en
-                las líneas de investigación que definen su trabajo.
             </p>
         </details>
     </Miembro>
@@ -252,7 +189,7 @@
     </Miembro>
 </main>
 
-<h2>Miembros del equipo de trabajo</h2>
+<h2 class="mt-32">Miembros del equipo de trabajo</h2>
 
 <Miembro imgUrl="/pics/valeria.jpg">
     <h3 slot="name">Valeria A. Belloro</h3>
@@ -317,6 +254,67 @@
             y Manuel Leonetti, pp.180-208, 2022); "Poniendo el 'foco' en la
             pasiva perifrástica. Estructura informativa en las oraciones pasivas
             del español" (Onomázein 48, pp. 107-127, 2020).
+        </p>
+    </details>
+</Miembro>
+
+<Miembro imgUrl="/pics/lilian.jpg">
+    <h3 slot="name">Lilián Guerrero</h3>
+    <a slot="orcid" href="https://orcid.org/0000-0002-6118-913X">Orcid</a>
+
+    <details slot="details">
+        <summary>Detalles de Lilián</summary>
+
+        <p>
+            Lilián Guerrero es doctora en Lingüística por la Universidad de
+            Búfalo (Estados Unidos) y desde el 2006 es investigadora titular de
+            tiempo completo en el Seminario de Lenguas Indígenas, en el
+            Instituto de Investigaciones Filológicas de la Universidad Nacional
+            Autónoma de México. Forma parte del Sistema Nacional de
+            Investigadores de México (máximo nivel contemplado). En 2024 recibió
+            el Premio Nacional Wigberto Jiménez Moreno del INAH a la mejor
+            investigación en el área de lingüística.
+        </p>
+
+        <p>
+            La línea de investigación que define sus actividades académicas gira
+            en torno a la descripción, documentación y tipología lingüística,
+            así como el estudio de las lenguas indígenas mexicanas. Entre sus
+            áreas de interés destacan el estudio de la interfaz
+            sintaxis-semántica y los efectos pragmáticos en la selección de
+            estructuras alternativas en oraciones simples y complejas; procesos
+            de cambios de valencia, transitividad, y propiedades aspectuales de
+            los predicados; la interfaz sintaxis-semántica y los efectos
+            pragmáticos en la selección de estructuras. Su investigación se
+            adscribe a la sintaxis funcional y descriptiva y, en particular, a
+            los principios de la Gramática de Rol y Referencia. Ha realizado
+            trabajo de campo en la lengua pima (Pilares, Sonora, 1995), yaqui
+            (Estación Vícam, Sonora, desde 1996) y huichol (variantes de Jalisco
+            y Nayarit, desde agosto 2008). Ha sido responsable y corresponsable
+            de 7 proyectos de investigación con financiamiento, todos orientados
+            al estudio de lenguas minoritarias habladas en México. Ha publicado
+            una decena de libros y más de cincuenta capítulos de libros en
+            editoriales de prestigio (entre ellas, Cambridge University Press,
+            Mouton de Gruyter, Oxford University Press, John Benjamins, Language
+            Science Press, entre otras); cuenta con una veintena de artículos de
+            investigación en revistas de alto impacto y especializadas
+            (International Journal of American Linguistics, Folia Lingüística,
+            Onomázein, Liames, entre otras). Sus últimas dos publicaciones
+            corresponden a los libros de autoría Gramática de la locación y el
+            tiempo en yaqui (2023) y Transitividad (no) canónica. Reflexiones a
+            partir de lenguas habladas en México, junto con Sergio Ibáñez y
+            Yulma Mejía. Breviarios de Lingüística 1. México: UNAM, Posgrado de
+            Lingüística
+        </p>
+
+        <p>
+            En docencia, ha impartido cursos a nivel licenciatura y posgrado en
+            la Universidad de Sonora, la Universidad Autónoma de Querétaro, la
+            Escuela Nacional de Antropología e Historia (ENAH), el Centro de
+            Investigaciones y Estudios en Antropología Social (CIESAS) y en la
+            Universidad de Jaén (España). Ha dirigido varias tesis de
+            licenciatura, maestría y doctorado en las líneas de investigación
+            que definen su trabajo.
         </p>
     </details>
 </Miembro>

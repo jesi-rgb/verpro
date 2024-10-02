@@ -2,16 +2,29 @@
     VERPRO <br /> Verbos pronominales del español: clasificación y alternancias
 </h1>
 
+<main id="logos" class="flex flex-col md:flex-row gap-3 md:gap-10 not-prose">
+    <img
+        src="/pics/MICIU-AEI.svg"
+        alt="MICIU-AEI"
+        class="border border-black/10 rounded-xl md:w-1/2 bg-white"
+    />
+
+    <img
+        src="/pics/UJA_ALTYA.jpg"
+        class="border border-black/10 rounded-xl md:w-1/2"
+        alt="UJA_ALTYA"
+    />
+</main>
+
 <h2>Presentación</h2>
 <p>
     El proyecto de investigación “Verbos pronominales del español: clasificación
-    y alternancias (<b>VERPRO</b>)" (ref.
-    <code>ID2023-149693NB-I00</code>), financiado por el Ministerio de Ciencia,
-    Innovación y Universidades, se propone ofrecer un estudio de conjunto
-    exhaustivo de los verbos pronominales del español actual a partir de su
-    organización en clases léxico-semánticas que permita evaluar los distintos
-    factores (semánticos, gramaticales y pragmáticos) que parecen determinar
-    tanto la presencia de alternancia (p. ej.
+    y alternancias (VERPRO)" (ref. ID2023-149693NB-I00), financiado por el
+    Ministerio de Ciencia, Innovación y Universidades, se propone ofrecer un
+    estudio de conjunto exhaustivo de los verbos pronominales del español actual
+    a partir de su organización en clases léxico-semánticas que permita evaluar
+    los distintos factores (semánticos, gramaticales y pragmáticos) que parecen
+    determinar tanto la presencia de alternancia (p. ej.
     <i>morir-morirse</i>) como su ausencia (p. ej.
     <i>fallecer/*fallecerse</i>
     y
@@ -19,7 +32,7 @@
 </p>
 
 <h2>Objetivos</h2>
-<ol>
+<ul>
     <li>Revisar y acotar el concepto de verbo pronominal.</li>
     <li>
         Recopilar los verbos que documentan marca pronominal en español actual y
@@ -34,8 +47,8 @@
         contener un mayor número de verbos, bien por haber suscitado un especial
         interés en la bibliografía previa:
 
-        <ol>
-            <li>
+        <ul class="prose-li:my-1">
+            <li class="">
                 verbos de cuidado del cuerpo (<i>peinarse</i>);
             </li>
 
@@ -96,10 +109,10 @@
             <li>de vida (<i>morirse</i>);</li>
 
             <li>de ingesta (<i>beberse</i>)</li>
-        </ol>
+        </ul>
     </li>
     <li>
-        Recoger muestras de uso contextualizado en <b>CORPES XXI</b> sobre la presencia
+        Recoger muestras de uso contextualizado en CORPES XXI sobre la presencia
         o ausencia de la forma pronominal.
     </li>
     <li>
@@ -114,7 +127,7 @@
     <li>
         Explicar dichas alternancias (y su ausencia) dentro de cada clase
         léxico-semántica con especial atención a lo siguiente
-        <ul>
+        <ul class="prose-li:my-1">
             <li>
                 Diferencias en el grado de control y afección del sujeto
                 (constructo de control).
@@ -144,4 +157,4 @@
         Establecer posibles correlaciones entre la marcación pronominal del
         español y la de otras lenguas desde un enfoque tipológico.
     </li>
-</ol>
+</ul>
