@@ -1,0 +1,48 @@
+<script lang="ts">
+    import type { ProjectMember } from "$lib/types";
+
+    export let data: ProjectMember;
+</script>
+
+<h1 class="">
+    {data.name}
+</h1>
+
+<a class="not-prose text-xl" href={data.orcidUrl}
+    ><span class="no-underline">Orcid: </span><span class="underline"
+        >{data.orcidUrl.split("/").slice(-1)}</span
+    ></a
+>
+
+<article>
+    <aside>
+        <img
+            src={data.imageUrl}
+            alt={data.id}
+            class="not-prose rounded-xl border"
+            width="200"
+        />
+    </aside>
+    {#each data.description as p}
+        <p>{p}</p>
+    {/each}
+</article>
+
+<style>
+    article {
+        position: relative;
+    }
+
+    aside {
+        float: right;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        width: 200px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+</style>
