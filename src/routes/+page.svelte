@@ -1,20 +1,4 @@
-<h1>
-    VERPRO <br /> Verbos pronominales del español: clasificación y alternancias
-</h1>
-
-<main id="logos" class="flex flex-col md:flex-row gap-3 md:gap-10 not-prose">
-    <img
-        src="/pics/MICIU-AEI.svg"
-        alt="MICIU-AEI"
-        class="border border-black/10 rounded-xl md:w-1/2 bg-white"
-    />
-
-    <img
-        src="/pics/UJA_ALTYA.jpg"
-        class="border border-black/10 rounded-xl md:w-1/2"
-        alt="UJA_ALTYA"
-    />
-</main>
+<h1>Verbos pronominales del español: clasificación y alternancias</h1>
 
 <h2>Presentación</h2>
 <p>
