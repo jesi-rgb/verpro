@@ -5,7 +5,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ["Source Serif Pro"],
+                sans: ['"Source Serif 4 Variable"'],
             },
         },
     },
