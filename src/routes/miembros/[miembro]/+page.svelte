@@ -8,7 +8,7 @@
     {data.name}
 </h1>
 
-<a class="not-prose text-xl" href={data.orcidUrl}
+<a class="not-prose text-xl" target="_blank" href={data.orcidUrl}
     ><span class="no-underline">Orcid: </span><span class="underline"
         >{data.orcidUrl.split("/").slice(-1)}</span
     ></a
@@ -20,7 +20,8 @@
             src={data.imageUrl}
             alt={data.id}
             class="not-prose rounded-xl border"
-            width="200"
+            style="view-transition-name: {data.id};"
+            width="250"
         />
     </aside>
     {#each data.description as p}
@@ -37,7 +38,6 @@
         float: right;
         margin-left: 30px;
         margin-bottom: 10px;
-        width: 200px;
     }
 
     img {

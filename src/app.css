@@ -42,3 +42,13 @@ html {
 /*p {*/
 /*  font-variation-settings: "opsz" 8;*/
 /*}*/
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+}
+
+::view-transition-old(shared-element),
+::view-transition-new(shared-element) {
+  animation: 100ms ease-in-out both;
+}

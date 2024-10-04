@@ -10,9 +10,11 @@
     >
         <img
             src={imageUrl}
-            alt="miembro de verpro"
-            width="150"
-            class="not-prose object-scale-down rounded-md group-hover:rotate-3 group-hover:scale-105 transition-transform my-auto shadow-md shadow-stone-400"
+            alt={name}
+            width="180"
+            class="not-prose rounded-md group-hover:rotate-3 group-hover:scale-105 transition-transform my-auto shadow-md shadow-stone-400"
+            style="view-transition-name: {id};"
+            data-item={id}
         />
 
         <div class="text-center">

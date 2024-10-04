@@ -15,7 +15,7 @@
             Miembros del equipo de investigación
         </h2>
 
-        <div class="grid grid-cols-3 gap-10">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
             {#each researchMembers as { id, name, imageUrl }}
                 <Miembro {id} {name} {imageUrl} />
             {/each}
@@ -23,11 +23,11 @@
     </div>
 
     <div>
-        <h2 class="mt-[600px] border-b border-stone-500">
+        <h2 class="border-b border-stone-500">
             Miembros del equipo de trabajo
         </h2>
 
-        <div class="grid grid-cols-3 gap-10">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
             {#each workMembers as { id, name, imageUrl }}
                 <Miembro {id} {name} {imageUrl} />
             {/each}
