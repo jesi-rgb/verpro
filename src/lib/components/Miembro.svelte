@@ -22,11 +22,10 @@
                 class="text-xl font-bold group-hover:text-stone-600 transition-colors group-hover:underline"
             >
                 {name}
+                {#if name === "Elena Felíu Arquiola"}
+                    <span>(IP)</span>
+                {/if}
             </h3>
-
-            {#if name === "Elena Felíu Arquiola"}
-                <span class="text-sm">(investigadora responsable)</span>
-            {/if}
         </div>
     </div>
 </a>

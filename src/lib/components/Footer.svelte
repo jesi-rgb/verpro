@@ -1,8 +1,6 @@
-<footer
-    class="border-t border-stone-400 h-[230px] not-prose text-xl pt-5 my-32"
->
-    <div class="flex justify-between h-full items-start">
-        <div class="flex flex-col items-start justify-between h-full">
+<footer class="border-t border-stone-400 not-prose text-xl pt-5 my-32 h-40">
+    <div class="flex justify-between items-start h-full">
+        <div class="flex flex-col items-start justify-between">
             <div>
                 <a href="/"><b>VERPRO</b></a>
                 <div
@@ -14,6 +12,14 @@
                 </div>
             </div>
         </div>
-        <p>{new Date().getFullYear()}</p>
+        <div class="flex flex-col justify-between items-end h-full">
+            <p>{new Date().getFullYear()}</p>
+            <div class="text-right opacity-60">
+                Desarrollado por <a
+                    class="underline font-semibold"
+                    href="https://jesirgb.com">Jesús Rascón</a
+                >
+            </div>
+        </div>
     </div>
 </footer>

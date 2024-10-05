@@ -9,7 +9,9 @@
         class="not-prose shadow-md rounded-xl p-1 backdrop-blur"
     />
 
-    <h1 class="text-5xl font-semibold">VERPRO</h1>
+    <a href="/">
+        <h1 class="text-5xl font-semibold">VERPRO</h1>
+    </a>
 
     <div class="relative">
         <div class="backdrop-blur rounded-xl absolute w-full h-full"></div>

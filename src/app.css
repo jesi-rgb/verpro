@@ -39,9 +39,15 @@ html {
     0 0;
 }
 
-/*p {*/
-/*  font-variation-settings: "opsz" 8;*/
-/*}*/
+p {
+  font-variation-settings: "opsz" 12;
+}
+
+h1,
+h2,
+h3 {
+  font-variation-settings: "opsz" 60;
+}
 
 ::view-transition-old(root),
 ::view-transition-new(root) {

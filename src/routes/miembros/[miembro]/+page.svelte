@@ -25,7 +25,7 @@
         />
     </aside>
     {#each data.description as p}
-        <p>{p}</p>
+        {@html p}
     {/each}
 </article>
 
