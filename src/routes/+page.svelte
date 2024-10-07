@@ -1,12 +1,13 @@
 <div class="md:flex md:justify-between md:items-start">
-    <h1>Verbos pronominales del español: clasificación y alternancias</h1>
-
     <img
         src="/pics/verpro_logo.svg"
         class="hidden md:block not-prose text-stone-500 fill-current stroke-stone-500"
         alt="Verpro Logo"
         width="100"
     />
+    <h1 class="md:text-right">
+        Verbos pronominales del español: clasificación y alternancias
+    </h1>
 </div>
 
 <h2>Presentación</h2>

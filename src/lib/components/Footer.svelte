@@ -9,12 +9,13 @@
                     <a href="/miembros">Miembros</a>
                     <a href="/resultados">Resultados</a>
                     <a href="/eventos">Eventos</a>
+                    <a href="/contacto">Contacto</a>
                 </div>
             </div>
         </div>
         <div class="flex flex-col justify-between items-end h-full">
             <p>{new Date().getFullYear()}</p>
-            <div class="text-right opacity-60">
+            <div class="text-right opacity-60 text-xs">
                 Desarrollado por <a
                     class="underline font-semibold"
                     href="https://jesirgb.com">Jesús Rascón</a

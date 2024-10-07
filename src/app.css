@@ -43,6 +43,10 @@ p {
   font-variation-settings: "opsz" 12;
 }
 
+i {
+  font-variation-settings: "wght" 490;
+}
+
 h1,
 h2,
 h3 {
