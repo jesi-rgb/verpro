@@ -19,9 +19,8 @@
         <img
             src={data.imageUrl}
             alt={data.id}
-            class="not-prose rounded-xl border"
+            class="not-prose rounded-xl w-1/3 border shadow-md float-right ml-1 mb-1 md:ml-5 md:mb-5"
             style="view-transition-name: {data.id};"
-            width="250"
         />
     </aside>
     {#each data.description as p}
@@ -32,12 +31,6 @@
 <style>
     article {
         position: relative;
-    }
-
-    aside {
-        float: right;
-        margin-left: 30px;
-        margin-bottom: 10px;
     }
 
     img {
