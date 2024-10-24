@@ -1,6 +1,6 @@
 <div class="md:flex md:justify-between md:items-start">
     <img
-        src="/pics/verpro_logo.svg"
+        src="/pics/verpro.svg"
         class="hidden md:block not-prose text-stone-500 fill-current stroke-stone-500"
         alt="Verpro Logo"
         width="100"

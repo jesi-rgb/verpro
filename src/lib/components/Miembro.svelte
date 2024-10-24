@@ -1,7 +1,5 @@
 <script>
-    export let imageUrl;
-    export let name;
-    export let id;
+    let { imageUrl, name, id } = $props();
 </script>
 
 <a href="/miembros/{id}" class="group not-prose">

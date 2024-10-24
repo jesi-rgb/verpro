@@ -5,6 +5,13 @@
     import "../app.css";
 
     import { onNavigate } from "$app/navigation";
+    /**
+     * @typedef {Object} Props
+     * @property {import('svelte').Snippet} [children]
+     */
+
+    /** @type {Props} */
+    let { children } = $props();
 
     onNavigate((navigation) => {
         if (!document.startViewTransition) return;
@@ -20,7 +27,7 @@
 
 <Container>
     <Header />
-    <slot></slot>
+    {@render children?.()}
 
     <Footer />
 </Container>
