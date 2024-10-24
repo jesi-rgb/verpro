@@ -15,7 +15,7 @@
         </div>
         <div class="flex flex-col justify-between items-end h-full">
             <p>{new Date().getFullYear()}</p>
-            <div class="text-right opacity-60 text-xs">
+            <div class="text-right opacity-60 text-sm">
                 Desarrollado por <a
                     class="underline font-semibold"
                     href="https://jesirgb.com">Jesús Rascón</a
