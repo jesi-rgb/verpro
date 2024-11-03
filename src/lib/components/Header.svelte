@@ -3,10 +3,10 @@
     class="flex flex-col md:flex-row gap-3 md:gap-10 justify-between my-10 items-center not-prose"
 >
     <img
-        src="/pics/MICIU-AEI.svg"
+        src="/pics/MICIU-AEI.jpg"
         alt="MICIU-AEI"
-        width="200"
-        class="not-prose shadow-md rounded-xl p-1 backdrop-blur"
+        width="250"
+        class="not-prose shadow-md rounded-md p-1 backdrop-blur"
     />
 
     <a href="/">

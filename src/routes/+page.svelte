@@ -13,8 +13,8 @@
 <h2>Presentación</h2>
 <p>
     El proyecto de investigación “Verbos pronominales del español: clasificación
-    y alternancias (VERPRO)" (ref. ID2023-149693NB-I00), financiado por el
-    Ministerio de Ciencia, Innovación y Universidades, se propone ofrecer un
+    y alternancias (VERPRO)" (ref. ID2023-149693NB-I00), financiado por
+    MICIU/AEI /10.13039/501100011033 y por FEDER, UE, se propone ofrecer un
     estudio de conjunto exhaustivo de los verbos pronominales del español actual
     a partir de su organización en clases léxico-semánticas que permita evaluar
     los distintos factores (semánticos, gramaticales y pragmáticos) que parecen
@@ -35,74 +35,75 @@
         la base de datos ADESSE bajo las etiquetas de <i
             >construcción pronominal media</i
         >
-        y construcción pronominal y se adscribirán esos verbos a las clases léxico-semánticas
-        propuestas en la base de datos. Se atenderá especialmente a las siguientes
-        18 clases, elegidas bien por contener un mayor número de ejemplos, bien por
-        contener un mayor número de verbos, bien por haber suscitado un especial
-        interés en la bibliografía previa:
+        y construcción pronominal reflexiva y se adscribirán esos verbos a las clases
+        léxico-semánticas propuestas en la base de datos. Se atenderá especialmente
+        a las siguientes 18 clases, elegidas bien por contener un mayor número de
+        ejemplos, bien por contener un mayor número de verbos, bien por haber suscitado
+        un especial interés en la bibliografía previa:
 
         <ul class="prose-li:my-1">
-            <li class="">
-                verbos de cuidado del cuerpo (<i>peinarse</i>);
+            <li>
+                cuidado del cuerpo (<i>peinarse</i>);
             </li>
 
             <li>
-                de cambio de postura (<i>sentarse</i>);
+                cambio de postura (<i>sentarse</i>);
             </li>
             <li>
-                de contacto corporal (<i>rascarse</i>);
-            </li>
-
-            <li>
-                de impacto (<i>golpearse</i>);
+                contacto corporal (<i>rascarse</i>);
             </li>
 
             <li>
-                de unión (recíprocos) (<i>casarse</i>, <i>juntarse</i>);
+                impacto (<i>golpearse</i>);
             </li>
 
             <li>
-                de sensación (<i>enfadarse</i>);
+                unión (recíprocos) (<i>casarse</i>, <i>juntarse</i>);
             </li>
 
             <li>
-                de conocimiento, creencia y cognición (<i>aprenderse</i>,
+                sensación (<i>enfadarse</i>);
+            </li>
+
+            <li>
+                conocimiento, creencia y cognición (<i>aprenderse</i>,
                 <i>creerse</i>, <i>pensarse</i>);
             </li>
 
             <li>
-                de desplazamiento (<i>irse</i>);
+                desplazamiento (<i>irse</i>);
             </li>
 
             <li>
-                de localización (<i>quedarse</i>);
+                localización (<i>quedarse</i>);
             </li>
             <li>
-                de manera de moverse (<i>columpiarse</i>);
+                manera de moverse (<i>columpiarse</i>);
             </li>
 
             <li>
                 fisiológicos (<i>orinarse</i>);
             </li>
             <li>
-                de comunicación (<i>callarse</i>);
+                comunicación (<i>callarse</i>);
             </li>
 
             <li>
-                de modificación (cambio físico-químico) (<i>quemarse</i>);
+                modificación (cambio físico-químico) (<i>quemarse</i>);
             </li>
             <li>
-                de percepción (<i>verse</i>);
+                percepción (<i>verse</i>);
             </li>
 
-            <li>de creación (<i>crearse</i>);</li>
+            <li>creación (<i>crearse</i>);</li>
 
-            <li>de posesión (<i>tenerse</i>);</li>
+            <li>posesión (<i>tenerse</i>);</li>
 
-            <li>de transferencia (<i>repartirse</i>);</li>
-            <li>de vida (<i>morirse</i>);</li>
+            <li>transferencia (<i>repartirse</i>);</li>
 
-            <li>de ingesta (<i>beberse</i>)</li>
+            <li>vida (<i>morirse</i>);</li>
+
+            <li>ingesta (<i>beberse</i>)</li>
         </ul>
     </li>
     <li>
@@ -120,7 +121,7 @@
 
     <li>
         Explicar dichas alternancias (y su ausencia) dentro de cada clase
-        léxico-semántica con especial atención a lo siguiente
+        léxico-semántica con especial atención a lo siguiente:
         <ul class="prose-li:my-1">
             <li>
                 Diferencias en el grado de control y afección del sujeto
