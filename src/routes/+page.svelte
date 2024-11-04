@@ -35,11 +35,12 @@
         la base de datos ADESSE bajo las etiquetas de <i
             >construcción pronominal media</i
         >
-        y construcción pronominal reflexiva y se adscribirán esos verbos a las clases
-        léxico-semánticas propuestas en la base de datos. Se atenderá especialmente
-        a las siguientes 18 clases, elegidas bien por contener un mayor número de
-        ejemplos, bien por contener un mayor número de verbos, bien por haber suscitado
-        un especial interés en la bibliografía previa:
+        y <i>construcción pronominal reflexiva</i> y se adscribirán esos verbos
+        a las clases léxico-semánticas propuestas en la base de datos. Se
+        atenderá especialmente a las siguientes 18 clases, elegidas bien por
+        contener un mayor número de ejemplos, bien por contener un mayor número
+        de verbos, bien por haber suscitado un especial interés en la
+        bibliografía previa:
 
         <ul class="prose-li:my-1">
             <li>
