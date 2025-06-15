@@ -1,6 +1,12 @@
 <script>
     const resultados = [
         {
+            author: "Carmen Conti Jiménez y Elena Felíu Arquiola",
+            title: "Verbos pronominales del español: clasificación y alternancias (VERPRO) (ref. ID2023-149693NB-I00): presentación del proyecto y primeros resultados",
+            description:
+                "Comunicación presentada en el XVI Congreso Internacional de Lingüística General, celebrado en la Universidad de Alicante del 11 al 13 de junio de 2025.",
+        },
+        {
             author: "Enrique Pato",
             title: "Verbos de posesión, adquisición y transferencia y sujetos no canónicos",
             description:
