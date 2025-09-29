@@ -1,6 +1,12 @@
 <script>
     const resultados = [
         {
+            author: "Elena Felíu Arquiola y Carmen Conti Jiménez",
+            title: "Presentación y primeros avances del proyecto Verbos pronominales del español: clasificación y alternancias (VERPRO). El caso de los verbos de ingestión y de los verbos de impacto",
+            description:
+                "Póster presentado en el XXI Encuentro de Morfólogos: la morfología del verbo, celebrado en la Universitat de València el 25 y 26 de septiembre de 2025.",
+        },
+        {
             author: "Carmen Conti Jiménez y Elena Felíu Arquiola",
             title: "Verbos pronominales del español: clasificación y alternancias (VERPRO) (ref. ID2023-149693NB-I00): presentación del proyecto y primeros resultados",
             description:
