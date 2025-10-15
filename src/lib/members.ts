@@ -4,7 +4,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "elena-feliu",
 		name: "Elena Felíu Arquiola",
-		imageUrl: "/pics/elena.jpg",
+		imageUrl: "/pics/elena.webp",
 		orcidUrl: "https://orcid.org/0000-0002-3711-041X",
 		team: "research",
 		description: [
@@ -17,7 +17,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "carmen-conti",
 		name: "Carmen Conti Jiménez",
-		imageUrl: "/pics/carmen.jpg",
+		imageUrl: "/pics/carmen.webp",
 		orcidUrl: "https://orcid.org/0000-0003-3075-3575",
 		team: "research",
 		description: [
@@ -30,7 +30,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "ventura-salazar",
 		name: "Ventura Salazar García",
-		imageUrl: "/pics/ventura.jpg",
+		imageUrl: "/pics/ventura.webp",
 		orcidUrl: "https://orcid.org/0000-0002-9988-0647",
 		team: "research",
 		description: [
@@ -44,7 +44,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "valeria-belloro",
 		name: "Valeria A. Belloro",
-		imageUrl: "/pics/valeria.jpg",
+		imageUrl: "/pics/valeria.webp",
 		orcidUrl: "https://orcid.org/0000-0002-2868-2408",
 		team: "work",
 		description: [
@@ -55,7 +55,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "lilian-guerrero",
 		name: "Lilián Guerrero",
-		imageUrl: "/pics/lilian.jpg",
+		imageUrl: "/pics/lilian.webp",
 		orcidUrl: "https://orcid.org/0000-0002-6118-913X",
 		team: "work",
 		description: [
@@ -68,7 +68,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "rolf-kailuweit",
 		name: "Rolf Kailuweit",
-		imageUrl: "/pics/rolf.jpg",
+		imageUrl: "/pics/rolf.webp",
 		orcidUrl: "https://orcid.org/0000-0002-8795-2121",
 		team: "work",
 		description: [
@@ -82,7 +82,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "enrique-pato",
 		name: "Enrique Pato",
-		imageUrl: "/pics/enrique.jpg",
+		imageUrl: "/pics/enrique.webp",
 		orcidUrl: "https://orcid.org/0000-0002-6955-2861",
 		team: "work",
 		description: [
@@ -96,7 +96,7 @@ export const projectMembers: ProjectMember[] = [
 	{
 		id: "sergio-ibanez",
 		name: "Sergio Ibáñez Cerda",
-		imageUrl: "/pics/sergio.png",
+		imageUrl: "/pics/sergio.webp",
 		orcidUrl: "https://orcid.org/0000-0003-3235-5597",
 		team: "work",
 		description: [

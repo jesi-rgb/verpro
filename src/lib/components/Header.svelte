@@ -3,7 +3,7 @@
     class="flex flex-col md:flex-row gap-3 md:gap-10 justify-between my-10 items-center not-prose"
 >
     <img
-        src="/pics/MICIU-AEI.jpg"
+        src="/pics/MICIU-AEI.webp"
         alt="MICIU-AEI"
         width="250"
         class="not-prose shadow-md rounded-md p-1 backdrop-blur"
@@ -16,7 +16,7 @@
     <div class="relative">
         <div class="backdrop-blur rounded-xl absolute w-full h-full"></div>
         <img
-            src="/pics/UJA_ALTYA.jpg"
+            src="/pics/UJA_ALTYA.webp"
             class="border border-black/10 rounded-xl not-prose shadow-md mix-blend-multiply backdrop-blur"
             width="160"
             alt="UJA_ALTYA"
