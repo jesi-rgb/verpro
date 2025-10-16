@@ -17,5 +17,6 @@ export const transferenciaItems: TransferenciaItem[] = [
 		audience: "Estudiantes de 3º y 4º de ESO y Bachillerato",
 		organizer:
 			"XXV Semana de la Ciencia, organizada por la Unidad de Cultura Científica y de la Innovación (UCC+i) de la Universidad de Jaén",
+		url: "https://www.ujaen.es/servicios/ucc/eventos/xxv-semana-de-la-ciencia",
 	},
 ];

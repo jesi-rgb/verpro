@@ -17,4 +17,5 @@ export type TransferenciaItem = {
 	description?: string;
 	audioSrc?: string;
 	organizer?: string;
+	url?: string;
 };
