@@ -10,6 +10,11 @@
             date: "2025/6/2",
             modality: "Modalidad virtual",
         },
+        {
+            name: "Tercer seminario de trabajo",
+            date: "2025/12/4",
+            modality: "Modalidad virtual",
+        },
     ];
 
     const events = $derived(
