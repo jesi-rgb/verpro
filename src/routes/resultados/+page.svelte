@@ -1,6 +1,24 @@
 <script>
     const resultados = [
         {
+            author: "Elena Felíu Arquiola",
+            title: "Los verbos de contacto + impacto en español: marcación pronominal y alternancias",
+            description:
+                "Comunicación presentada en el LIV Simposio Internacional de la Sociedad Española de Lingüística, CSIC (Madrid), 26-29 de enero de 2026.",
+        },
+        {
+            author: "Carmen Conti Jiménez y Enrique Pato",
+            title: "Clase semántica de verbo y marcación pronominal en español: hacia una subclasificación semántica de los verbos de modificación o de cambio de estado",
+            description:
+                "Comunicación presentada en el LIV Simposio Internacional de la Sociedad Española de Lingüística, CSIC (Madrid), 26-29 de enero de 2026.",
+        },
+        {
+            author: "Elena Felíu Arquiola",
+            title: "Primeros resultados del proyecto Verbos pronominales del español: clasificación y alternancias (VERPRO): el caso de los verbos de contacto + impacto",
+            description:
+                "Conferencia impartida en el Seminario de Análisis Lingüístico organizado por el grupo de investigación \"Análisis lingüístico: teoría y aplicaciones (ALTYA)\" (HUM-834), Universidad de Jaén, 21 de enero de 2026.",
+        },
+        {
             author: "Elena Felíu Arquiola y Carmen Conti Jiménez",
             title: "Presentación y primeros avances del proyecto Verbos pronominales del español: clasificación y alternancias (VERPRO). El caso de los verbos de ingestión y de los verbos de impacto",
             description:
