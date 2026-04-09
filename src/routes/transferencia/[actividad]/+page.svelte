@@ -56,6 +56,23 @@
 		</div>
 	{/if}
 
+	{#if data.sessions && data.sessions.length > 0}
+		<div>
+			<strong>Sesiones:</strong>
+			<ul class="list-disc list-inside mt-2">
+				{#each data.sessions as session}
+					<li>
+						{session.name}: {new Date(session.date).toLocaleDateString("es-ES", {
+							year: "numeric",
+							month: "long",
+							day: "numeric",
+						})}
+					</li>
+				{/each}
+			</ul>
+		</div>
+	{/if}
+
 	{#if data.images && data.images.length > 0}
 		<section class="mt-8">
 			<h2 class="text-2xl font-bold mb-4">Galería</h2>

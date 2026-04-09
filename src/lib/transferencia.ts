@@ -15,7 +15,13 @@ export const transferenciaItems: TransferenciaItem[] = [
 		date: new Date("2025-12-18"),
 		location: "Colegio Cristo Rey de Jaén",
 		audience: "Alumnado de 1º de Bachillerato",
-		description: 'Proyecto de docencia no universitaria y divulgación científica "Diez años de Explora-IES. Curso 2025-2026", desarrollado dentro del Programa Hypatia y del XV Plan de Divulgación Científica y de la Innovación de la Universidad de Jaén (financiado por FECYT, Ministerio de Ciencia e Innovación). Primera sesión: 18 de diciembre de 2025. Segunda sesión: 16 de enero de 2026.',
+		description: 'Proyecto de docencia no universitaria y divulgación científica "Diez años de Explora-IES. Curso 2025-2026", desarrollado dentro del Programa Hypatia y del XV Plan de Divulgación Científica y de la Innovación de la Universidad de Jaén (financiado por FECYT, Ministerio de Ciencia e Innovación).',
+		sessions: [
+			{ name: "Primera sesión", date: new Date("2025-12-18") },
+			{ name: "Segunda sesión", date: new Date("2026-01-16") },
+			{ name: "Tercera sesión", date: new Date("2026-03-27") },
+			{ name: "Cuarta sesión", date: new Date("2026-04-07") },
+		],
 		images: [
 			"/pics/actividades/primera-sesion-todos.jpeg",
 			"/pics/actividades/primera-sesion-alumnos.jpg",

@@ -19,4 +19,5 @@ export type TransferenciaItem = {
 	organizer?: string;
 	url?: string;
 	images?: string[];
+	sessions?: { name: string; date: Date }[];
 };

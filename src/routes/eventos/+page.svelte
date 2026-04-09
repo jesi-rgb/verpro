@@ -15,6 +15,11 @@
             date: "2025/12/4",
             modality: "Modalidad virtual",
         },
+        {
+            name: "Cuarto seminario de trabajo",
+            date: "2026/4/22",
+            modality: "Modalidad híbrida (presencial y virtual)",
+        },
     ];
 
     const events = $derived(
