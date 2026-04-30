@@ -7,6 +7,22 @@ export type ProjectMember = {
 	team: "research" | "work";
 };
 
+export type Intervention = {
+	speakers: string;
+	affiliation?: string;
+	title: string;
+};
+
+export type Event = {
+	id: string;
+	name: string;
+	date: string;
+	modality: string;
+	description?: string;
+	interventions?: Intervention[];
+	images?: string[];
+};
+
 export type TransferenciaItem = {
 	id: string;
 	type: "podcast" | "actividad";
