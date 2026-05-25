@@ -123,7 +123,7 @@
 					href={data.poster.pdf}
 					target="_blank"
 					rel="noopener noreferrer"
-					class="inline-flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 rounded-lg transition-colors"
+					class="inline-flex items-center gap-2 px-4 py-2 bg-stone-700 hover:bg-stone-800 text-stone-100 rounded-lg transition-colors shadow-sm"
 				>
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
