@@ -17,16 +17,36 @@ export const transferenciaItems: TransferenciaItem[] = [
 		audience: "Alumnado de 1º de Bachillerato",
 		description: 'Proyecto de docencia no universitaria y divulgación científica "Diez años de Explora-IES. Curso 2025-2026", desarrollado dentro del Programa Hypatia y del XV Plan de Divulgación Científica y de la Innovación de la Universidad de Jaén (financiado por FECYT, Ministerio de Ciencia e Innovación).',
 		sessions: [
-			{ name: "Primera sesión", date: new Date("2025-12-18") },
+			{
+				name: "Primera sesión",
+				date: new Date("2025-12-18"),
+				images: [
+					"/pics/actividades/primera-sesion-todos.jpeg",
+					"/pics/actividades/primera-sesion-alumnos.jpg",
+					"/pics/actividades/primera-sesion-pizarra.jpg",
+				],
+			},
 			{ name: "Segunda sesión", date: new Date("2026-01-16") },
 			{ name: "Tercera sesión", date: new Date("2026-03-27") },
 			{ name: "Cuarta sesión", date: new Date("2026-04-07") },
+			{
+				name: "Congreso final",
+				date: new Date("2026-05-12"),
+				images: [
+					"/pics/actividades/congreso-1.jpg",
+					"/pics/actividades/congreso-2.jpg",
+					"/pics/actividades/congreso-3.jpg",
+					"/pics/actividades/congreso-4.jpg",
+					"/pics/actividades/congreso-5.jpg",
+					"/pics/actividades/congreso-6.jpg",
+					"/pics/actividades/congreso-7.jpg",
+				],
+			},
 		],
-		images: [
-			"/pics/actividades/primera-sesion-todos.jpeg",
-			"/pics/actividades/primera-sesion-alumnos.jpg",
-			"/pics/actividades/primera-sesion-pizarra.jpg",
-		],
+		poster: {
+			title: "Lo que los verbos pronominales esconden",
+			pdf: "/pics/actividades/poster-verbos-pronominales.pdf",
+		},
 	},
 ];
 

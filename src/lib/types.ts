@@ -35,5 +35,6 @@ export type TransferenciaItem = {
 	organizer?: string;
 	url?: string;
 	images?: string[];
-	sessions?: { name: string; date: Date }[];
+	sessions?: { name: string; date: Date; images?: string[] }[];
+	poster?: { image?: string; pdf?: string; title?: string };
 };

@@ -31,15 +31,15 @@
         {#each data.interventions as intervention}
             <li>
                 <p class="text-lg leading-snug font-semibold italic">
-                    “{intervention.title}”
+                    {intervention.title}
                 </p>
                 <p class="mt-1 text-sm">
                     <span class="font-medium">{intervention.speakers}</span>
                     {#if intervention.affiliation}
-                        <span class="opacity-50"> · </span>
-                        <span class="opacity-70">{intervention.affiliation}</span>
+                        <span> ({intervention.affiliation})</span>
                     {/if}
                 </p>
+
             </li>
         {/each}
     </ul>
